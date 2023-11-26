@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bottomNavApp/static/css/main.599a0cd2.chunk.css",
-    "main.js": "/bottomNavApp/static/js/main.4819993d.chunk.js",
-    "main.js.map": "/bottomNavApp/static/js/main.4819993d.chunk.js.map",
+    "main.js": "/bottomNavApp/static/js/main.61df597d.chunk.js",
+    "main.js.map": "/bottomNavApp/static/js/main.61df597d.chunk.js.map",
     "runtime-main.js": "/bottomNavApp/static/js/runtime-main.2b1ad312.js",
     "runtime-main.js.map": "/bottomNavApp/static/js/runtime-main.2b1ad312.js.map",
-    "static/js/2.ed50f683.chunk.js": "/bottomNavApp/static/js/2.ed50f683.chunk.js",
-    "static/js/2.ed50f683.chunk.js.map": "/bottomNavApp/static/js/2.ed50f683.chunk.js.map",
+    "static/js/2.cb0b5aae.chunk.js": "/bottomNavApp/static/js/2.cb0b5aae.chunk.js",
+    "static/js/2.cb0b5aae.chunk.js.map": "/bottomNavApp/static/js/2.cb0b5aae.chunk.js.map",
     "index.html": "/bottomNavApp/index.html",
-    "precache-manifest.f0891a660a10f7181a98c6cb1d20aa1e.js": "/bottomNavApp/precache-manifest.f0891a660a10f7181a98c6cb1d20aa1e.js",
+    "precache-manifest.5e115489aea078075a4e376027e96cce.js": "/bottomNavApp/precache-manifest.5e115489aea078075a4e376027e96cce.js",
     "service-worker.js": "/bottomNavApp/service-worker.js",
     "static/css/main.599a0cd2.chunk.css.map": "/bottomNavApp/static/css/main.599a0cd2.chunk.css.map",
-    "static/js/2.ed50f683.chunk.js.LICENSE.txt": "/bottomNavApp/static/js/2.ed50f683.chunk.js.LICENSE.txt"
+    "static/js/2.cb0b5aae.chunk.js.LICENSE.txt": "/bottomNavApp/static/js/2.cb0b5aae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b1ad312.js",
-    "static/js/2.ed50f683.chunk.js",
+    "static/js/2.cb0b5aae.chunk.js",
     "static/css/main.599a0cd2.chunk.css",
-    "static/js/main.4819993d.chunk.js"
+    "static/js/main.61df597d.chunk.js"
   ]
 }
