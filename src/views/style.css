@@ -1,0 +1,98 @@
+.order-card {
+    background-color: white;
+    color: black;
+    width: 100%;
+    border-radius: 10px;
+    padding: 2%;
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border: 1px dashed gray;
+    
+}
+
+.order-textbox {
+    background-color: lightgrey;
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+}
+
+.enlarging-textbox{
+    margin-left:auto;
+    margin-right: auto;
+    width: 95%;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+.enlarging-textbox:focus{
+    width: 100%;
+    background: blueviolet;
+    color: white;
+}
+
+
+.btn-bounce {
+    margin: auto;
+}
+.btn-bounce:hover {
+    animation: bouncing-anim 0.5s linear infinite;
+}
+
+.txt-bounce {
+    margin: auto;
+    transition: background-color 2s;
+}
+.txt-bounce:hover {
+    background: royalblue;
+}
+.txt-bounce:focus {
+    animation: bouncing-anim 0.5s linear infinite;
+}
+
+@keyframes bouncing-anim{
+    0%{
+        width: 100%;
+    }
+    50% {
+        width: 90%;
+    }
+    100%{
+        width: 100%;
+    }
+}
+
+.company-type-select {
+    background-color: gray;
+    color: white;
+    border-radius: 15px;
+}
+
+.company-type span {
+    cursor: pointer;
+}
+
+.company-type {
+    border: 1px solid gray;
+    border-radius: 15px;
+
+}
+/* 
+.btn-tab {
+    width: 5rem;
+    height: 5rem;
+} */
+
+.btn-tab {
+    cursor: pointer;
+
+}
+.btn-tab:hover {
+    border: 0.3px solid white;
+    border-radius: 25px 25px 0 0 ;
+}
